@@ -1,0 +1,29 @@
+# Git
+.git
+.gitignore
+
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Generated documents
+generated_docs/
+*.docx
+
+# Logs
+*.log
+
+# Docker
+Dockerfile
+docker-compose.yml
